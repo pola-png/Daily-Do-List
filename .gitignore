@@ -1,0 +1,6 @@
+# Android signing keys and credentials (never commit to GitHub)
+*.jks
+*.keystore
+keystore.properties
+SIGNING_DETAILS.txt
+app/credentials.json
